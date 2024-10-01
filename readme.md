@@ -18,7 +18,7 @@ Este é um projeto simples de uma lista de mercado onde você pode adicionar ite
 1. **Clonar o Repositório**
 
    ```bash
-   git clone https://github.com/rodriigues03/lista.git
+   git clone https://github.com/rodriigues11/mercado.git
    ```
 
 2. **Abrir o Projeto**
